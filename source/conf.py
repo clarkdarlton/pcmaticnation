@@ -1,5 +1,5 @@
 project = 'PC Matic Install Guide'
-author = 'Your Name'
+author = 'Clark Darlton'
 release = '1.0'
 
 extensions = []
