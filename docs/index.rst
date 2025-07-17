@@ -7,6 +7,7 @@ pcmatic.com/download | install pc matic existing customers Already Purchased off
     </a>
 Welcome to the complete guide for existing PC Matic users. If you’re trying to reinstall or activate the software you already purchased, you’ve come to the right place. This tutorial will help you download, install, and activate PC Matic on your device using the official site:  
 pcmatic.com/download.
+
 .. raw:: html
 
    <div style="text-align:center;">
